@@ -16,7 +16,7 @@ int main() {
     // Calculo da area
     area = (altura * base) / 2;
     // Interface do usuario com o valor da area
-    cout <<"A area do seu circulo eh " << area << endl;
+    cout <<"A area do seu triangulo eh " << area << endl;
 
     return 0;
 }
