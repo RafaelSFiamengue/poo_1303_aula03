@@ -30,7 +30,7 @@ int main() {
         x2 = (-b - sqrt(delta)) / (2 * a);
         
         // Interface do usuario com os valores das raizes
-        cout << "As raizes da equacao sao: " << x1 << "e" << x2 << endl;
+        cout << "As raizes da equacao sao: " << x1 << " e " << x2 << endl;
     }
        // Se nao corresponder com nenhuma condicional anterior
         else {
